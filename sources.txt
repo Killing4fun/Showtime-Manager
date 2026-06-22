@@ -1,0 +1,17 @@
+.\src\showtime\manager\Main.java
+.\src\showtime\manager\MainController.java
+.\src\showtime\manager\MainFX.java
+.\src\showtime\manager\controller\FolderPanelController.java
+.\src\showtime\manager\controller\UploadDialogController.java
+.\src\showtime\manager\model\ContentItem.java
+.\src\showtime\manager\model\DatabaseManager.java
+.\src\showtime\manager\model\ScheduleItem.java
+.\src\showtime\manager\model\VideoItem.java
+.\src\showtime\manager\renderer\ShowtimeTableRenderer.java
+.\src\showtime\manager\renderer\TimelineCell.java
+.\src\showtime\manager\utils\ExcelExporter.java
+.\src\showtime\manager\utils\ScheduleManager.java
+.\src\showtime\manager\utils\ScheduleTransferHandler.java
+.\src\showtime\manager\utils\ShowtimeTableModel.java
+.\src\showtime\manager\view\FolderPanel.java
+.\src\showtime\manager\view\UploadDialog.java
